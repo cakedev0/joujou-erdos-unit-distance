@@ -3,7 +3,7 @@ Faire jou-jou avec le problème de la distance unitaire d'Erdos
 
 ## Générer un GIF d'animation
 
-Script: `/home/runner/work/joujou-erdos-unit-distance/joujou-erdos-unit-distance/generate_unit_distance_gif.py`
+Script: `generate_unit_distance_gif.py`
 
 Exemple (grille 16x16 par défaut):
 
